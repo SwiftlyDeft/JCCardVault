@@ -1,0 +1,702 @@
+[
+  {
+    "id": 594,
+    "uid": "675d424e-4293-4bdc-b1fb-cccb9fc39543",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "american_express"
+  },
+  {
+    "id": 7950,
+    "uid": "9bd50045-df0f-4e5a-a33a-e6ad66ad3e13",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "solo"
+  },
+  {
+    "id": 4612,
+    "uid": "bcbf4abd-a501-4f41-a49b-f79acca3a7d5",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 8578,
+    "uid": "8ee03499-8f6c-4d4a-a33f-db1d7e1a8829",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "dankort"
+  },
+  {
+    "id": 3785,
+    "uid": "32bbb594-49a2-44d7-9db8-e808f1ce6b37",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "visa"
+  },
+  {
+    "id": 492,
+    "uid": "0e566ef5-60fa-4ec4-be6f-88610c538125",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "discover"
+  },
+  {
+    "id": 1835,
+    "uid": "9a321d27-6f21-4b2b-b032-9f6464e123e8",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "dankort"
+  },
+  {
+    "id": 5778,
+    "uid": "1eab0818-d42e-4c43-b000-a311650e1e5b",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "discover"
+  },
+  {
+    "id": 7589,
+    "uid": "52973873-75c0-40fa-8379-17d3dabd0e72",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "laser"
+  },
+  {
+    "id": 9132,
+    "uid": "bbf19ba1-6c6b-475a-904b-1985dc1b14aa",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 8583,
+    "uid": "fba81df6-ec9e-4527-ac3f-b848f47dcb90",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 7574,
+    "uid": "821ce33a-1d18-4e12-a2e9-fcbf8b68d595",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "switch"
+  },
+  {
+    "id": 5170,
+    "uid": "78ff79d0-2de6-4849-b6e2-17b04427f408",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "american_express"
+  },
+  {
+    "id": 5956,
+    "uid": "13cf0957-4a29-483a-ae76-e4772d7fb89a",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 7026,
+    "uid": "17a73477-fad5-4e7f-90e6-8ce6f18311ad",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "laser"
+  },
+  {
+    "id": 3521,
+    "uid": "c9cde95e-ae03-43f3-bf7d-f129283721e2",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 5051,
+    "uid": "1dcf59b2-bd62-41b7-b8df-43d63b2cdf13",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "forbrugsforeningen"
+  },
+  {
+    "id": 9482,
+    "uid": "36b0dd26-a170-4487-8037-95a6fd5c3cea",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 406,
+    "uid": "5bb41ca5-8431-4b24-b175-f1998a509bab",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "forbrugsforeningen"
+  },
+  {
+    "id": 4617,
+    "uid": "3e737de6-bcc0-47a7-94bb-77f75619813a",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "diners_club"
+  },
+  {
+    "id": 934,
+    "uid": "9f5038b1-40d6-4f05-a610-da6a2c7c262f",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "solo"
+  },
+  {
+    "id": 6317,
+    "uid": "3314259b-e53a-420b-8de8-cd8749e75889",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 7225,
+    "uid": "db490c0d-6b92-4c0c-ae34-ed4e91a19143",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "solo"
+  },
+  {
+    "id": 2565,
+    "uid": "ace1335d-3800-40ae-bc43-9e7a9b92457e",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 1730,
+    "uid": "3f7c7f18-92f2-4218-94e6-9af4c0ef48f1",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 81,
+    "uid": "2c873ec0-139a-4582-9847-938f85cd5c59",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 1986,
+    "uid": "d75b5da1-4af3-40e7-884a-ca746a51e49b",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "solo"
+  },
+  {
+    "id": 6290,
+    "uid": "57b41fd7-d9b3-4593-842b-e05462527ff6",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 739,
+    "uid": "76f5785d-293f-497e-a599-29d59b18408a",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "forbrugsforeningen"
+  },
+  {
+    "id": 2963,
+    "uid": "5c8a2bf4-d80e-40c1-97c2-77a8d15fd8c9",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 1720,
+    "uid": "9f3a96cc-02e0-4aa6-8acc-402fe479a499",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 2046,
+    "uid": "4b3b592b-0708-4f9a-be8c-7cf54d75212c",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "american_express"
+  },
+  {
+    "id": 507,
+    "uid": "a5a29a67-74a8-4e56-9abd-9b6d7ae529fc",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "visa"
+  },
+  {
+    "id": 9285,
+    "uid": "ed22d06a-0dff-4cb4-b3f7-f651ea0d1cff",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "visa"
+  },
+  {
+    "id": 6307,
+    "uid": "75960347-a2ee-4fd5-bf8d-118676d8bc57",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "visa"
+  },
+  {
+    "id": 8311,
+    "uid": "50f85b4f-ab26-4ecf-886d-20fe3f42112f",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "laser"
+  },
+  {
+    "id": 9384,
+    "uid": "ca41e6d2-5b0c-4af6-9ed2-6435f64cdb44",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 8692,
+    "uid": "47cb03fa-8a05-4be7-9673-3c39d7697231",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "visa"
+  },
+  {
+    "id": 1681,
+    "uid": "04daae7c-7a33-4a50-968f-dc0cf5bc8129",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "laser"
+  },
+  {
+    "id": 5537,
+    "uid": "1d8f7dfa-3510-4e0b-afbf-0a996f2440b0",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 1913,
+    "uid": "97391e64-1530-4fcf-a09d-922d056a06ed",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "solo"
+  },
+  {
+    "id": 7488,
+    "uid": "bba5612c-cd78-406d-b37a-8350f2d3b237",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "american_express"
+  },
+  {
+    "id": 7779,
+    "uid": "ca5efc0e-1683-4794-8014-16ba50fdbe6b",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "solo"
+  },
+  {
+    "id": 976,
+    "uid": "01c8c119-390b-4ee1-9068-4a4e48d8d733",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "visa"
+  },
+  {
+    "id": 2827,
+    "uid": "12c77716-cfa7-4e5c-a060-1913dfe88d02",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 7943,
+    "uid": "056d71e6-5d70-46dc-adca-dbce88c0a41e",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "dankort"
+  },
+  {
+    "id": 6390,
+    "uid": "67b453bb-280b-4704-bd1f-893a0ca33f31",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "american_express"
+  },
+  {
+    "id": 2600,
+    "uid": "d9c3d29b-cb5c-4bb8-adde-188def442b6c",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "american_express"
+  },
+  {
+    "id": 3317,
+    "uid": "6d97b39d-9189-4fb3-8b93-c7d8d8641fe5",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "solo"
+  },
+  {
+    "id": 2096,
+    "uid": "c98f786c-9516-46c9-bfc8-8a9aa841bf8f",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "laser"
+  },
+  {
+    "id": 538,
+    "uid": "540d9697-9272-4ae9-8572-be74b43156d0",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "american_express"
+  },
+  {
+    "id": 7387,
+    "uid": "c49e84b7-d4dd-4865-ad63-d25b7ad40f39",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 1760,
+    "uid": "94880690-7394-4d99-860b-da2e02de656f",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "visa"
+  },
+  {
+    "id": 1168,
+    "uid": "c206ff2f-d5d3-4a73-b68a-a7e2fc5faa1d",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "switch"
+  },
+  {
+    "id": 7456,
+    "uid": "734b414f-5a0a-4a99-993d-93319b59975b",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 4230,
+    "uid": "5462899b-0c40-4b0d-b5fb-7b821ca4a51a",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "switch"
+  },
+  {
+    "id": 4827,
+    "uid": "a74f0d24-87c6-4098-8637-9ab7e494b1f4",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "visa"
+  },
+  {
+    "id": 9030,
+    "uid": "bba1839b-f87c-4abf-ac25-8a959faed084",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "dankort"
+  },
+  {
+    "id": 2162,
+    "uid": "0987fbbb-6464-4632-8bd8-ce88d0e0055c",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "visa"
+  },
+  {
+    "id": 2563,
+    "uid": "2ca8a8af-4785-4050-bfb8-6c417f5eefc0",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "solo"
+  },
+  {
+    "id": 2056,
+    "uid": "9d0d1b8a-b28f-4830-940c-3af21ed239ac",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "discover"
+  },
+  {
+    "id": 1509,
+    "uid": "755731ba-14a2-444a-aec7-4ce62fc2cfbc",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 6809,
+    "uid": "2a1b254a-cf2c-48b7-a2da-b414cd2278d4",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "dankort"
+  },
+  {
+    "id": 2142,
+    "uid": "6c3af1a6-24fb-4861-b4b4-1f583dd3c821",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "dankort"
+  },
+  {
+    "id": 6156,
+    "uid": "0acb295f-dc53-4797-9fde-dbe6fe4686cb",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "discover"
+  },
+  {
+    "id": 4093,
+    "uid": "47313245-b7bc-4391-acc7-18df22394f8f",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 5428,
+    "uid": "ed6e8e21-b38a-4ca4-bacd-cf90b0ff538e",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 9640,
+    "uid": "d424c285-58e6-44b8-b163-6078b2743558",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "discover"
+  },
+  {
+    "id": 4829,
+    "uid": "d28d75a3-7542-44c9-999f-1dc0fbe3adda",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "dankort"
+  },
+  {
+    "id": 6323,
+    "uid": "f1f66437-4736-4ca3-a955-b195a799e769",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "diners_club"
+  },
+  {
+    "id": 9942,
+    "uid": "167d2f49-04a4-42e7-bc2b-e48b0c111897",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 1972,
+    "uid": "5edf1384-430b-4c2a-9409-1ed52ae729d1",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "visa"
+  },
+  {
+    "id": 88,
+    "uid": "ca7e8f43-13f0-4609-8009-1f9d80db3f6b",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 4116,
+    "uid": "ca18f4e9-ece1-40f2-9559-ad3e4a78b625",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "discover"
+  },
+  {
+    "id": 8344,
+    "uid": "55e7f005-f774-4942-8df7-fb9f48a512b7",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "laser"
+  },
+  {
+    "id": 2590,
+    "uid": "e82c92a5-e03f-4219-9991-9982c871bed3",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 3145,
+    "uid": "181cdaf8-4fe3-41cf-a885-b9721eeedf2f",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "maestro"
+  },
+  {
+    "id": 6448,
+    "uid": "eb8ae504-dde7-4d82-8910-cb3bb80928e7",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 7151,
+    "uid": "3b19f344-01f8-41c1-b364-892dcc2f81c5",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "discover"
+  },
+  {
+    "id": 5876,
+    "uid": "4160a97b-eb76-4d17-995a-41ead6c3f4f2",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 4329,
+    "uid": "1b1c3c06-2345-44d3-a175-a22070510ce4",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "forbrugsforeningen"
+  },
+  {
+    "id": 2292,
+    "uid": "469e2740-3ade-4f84-ab5f-58a86188e22f",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 2657,
+    "uid": "7ac67aea-7b43-4096-978f-b185f9f98a41",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "solo"
+  },
+  {
+    "id": 5302,
+    "uid": "755aa867-12f9-4ca0-916d-d5f2b355562b",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "mastercard"
+  },
+  {
+    "id": 9067,
+    "uid": "2f7b997c-6696-4bff-8794-ca31af256626",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 7254,
+    "uid": "94142482-58ee-4eeb-aa43-5aebdef6f870",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 4383,
+    "uid": "8a378838-5362-48b8-8da2-e2078d57f0df",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "dankort"
+  },
+  {
+    "id": 3285,
+    "uid": "67f1e276-fa16-40c5-8299-39dfad157f55",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "switch"
+  },
+  {
+    "id": 3681,
+    "uid": "91397324-6ddd-4190-9552-cf1f09afb271",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "diners_club"
+  },
+  {
+    "id": 5837,
+    "uid": "c8291f55-1c8c-4de8-9686-fa4a18ecdf14",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2025-04-06",
+    "credit_card_type": "forbrugsforeningen"
+  },
+  {
+    "id": 6032,
+    "uid": "3c2c7ab2-cda3-47d6-8dcd-16e1f363d644",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "switch"
+  },
+  {
+    "id": 9745,
+    "uid": "20f0a8c7-9f44-450e-a34d-37e270ea91d7",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "discover"
+  },
+  {
+    "id": 1097,
+    "uid": "8a6393b4-906a-4378-95b6-c4e44149454d",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "discover"
+  },
+  {
+    "id": 5756,
+    "uid": "78c04130-df2f-4595-9781-eb4a38339715",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "forbrugsforeningen"
+  },
+  {
+    "id": 7991,
+    "uid": "f86af062-1e3b-4db2-b692-046994c7b907",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "laser"
+  },
+  {
+    "id": 5213,
+    "uid": "6a95695e-076c-469f-8e83-587b3554f422",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2026-04-06",
+    "credit_card_type": "forbrugsforeningen"
+  },
+  {
+    "id": 961,
+    "uid": "7f10589f-890f-429e-b0f8-dae16f562327",
+    "credit_card_number": "1234-2121-1221-1211",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "jcb"
+  },
+  {
+    "id": 3562,
+    "uid": "a623b10b-9995-43e2-93d3-df98344a8e70",
+    "credit_card_number": "1212-1221-1121-1234",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "solo"
+  },
+  {
+    "id": 9264,
+    "uid": "a46511b5-147b-4269-8ac1-835f54b7b1a7",
+    "credit_card_number": "1211-1221-1234-2201",
+    "credit_card_expiry_date": "2027-04-06",
+    "credit_card_type": "laser"
+  },
+  {
+    "id": 5432,
+    "uid": "f113f288-be81-4183-84fe-cd74419c7bf9",
+    "credit_card_number": "1228-1221-1221-1431",
+    "credit_card_expiry_date": "2028-04-05",
+    "credit_card_type": "mastercard"
+  }
+]
